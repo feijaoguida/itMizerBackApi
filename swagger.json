@@ -1,0 +1,30 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Services",
+    "description": "Services description",
+    "version": "1.0"
+  },
+  "host": "localhost:3333",
+  "basePath": "/",
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    "/example": {
+      "get": {
+        "description": "Get Example.",
+        "consumes": "application/json",
+        "parameters": [
+                    
+        ],
+        "responses": {
+          "201": {
+
+          }
+        }
+      }
+    }
+    
+  }   
+}

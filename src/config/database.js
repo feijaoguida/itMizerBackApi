@@ -1,0 +1,24 @@
+module.exports = {
+  "development": {
+    username: 'root',
+  password: 'fei123',
+  database: 'mazerIt',
+  host: '127.0.0.1',
+  dialect: 'mysql',
+  },
+  "test": {
+    username: 'root',
+  password: 'fei123',
+  database: 'mazerIt',
+  host: '127.0.0.1',
+  dialect: 'mysql',
+  },
+  "production": {
+    username: 'root',
+  password: 'fei123',
+  database: 'mazerIt',
+  host: '127.0.0.1',
+  dialect: 'mysql',
+  }
+}
+
